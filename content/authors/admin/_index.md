@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jason Hoffman
+title: Jason S. Hoffman
 
 # Username (this should match the folder name)
 authors:
