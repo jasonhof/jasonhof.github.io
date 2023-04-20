@@ -38,7 +38,7 @@ links:
 - name: News
   url: 'https://www.washington.edu/news/2022/09/19/smartphone-camera-flash-could-help-people-measure-blood-oxygen-levels-home/'
 - name: Interview
-  url: https://omny.fm/shows/seattles-morning-news-with-dave-ross/the-relationship-between-alcohol-and-alzheimers?t=31m38s
+  url: https://omny.fm/shows/seattles-morning-news-with-dave-ross/the-relationship-between-alcohol-and-alzheimers?t=31m10s
 url_pdf: 'https://www.nature.com/articles/s41746-022-00665-y.pdf?pdf=button%20sticky'
 url_code: 'https://github.com/ubicomplab/oximetry-phone-cam-data'
 url_dataset: 'https://github.com/ubicomplab/oximetry-phone-cam-data'
