@@ -9,11 +9,11 @@ authors:
 - Eric C. Larson
 - Shwetak N. Patel
 - Edward J. Wang
-date: "2023-04-19T00:00:00Z"
+date: "2022-09-19T00:00:00Z"
 doi: "https://doi.org/10.1038/s41746-022-00665-y"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-09-19T00:00:00Z"
+publishDate: "2023-04-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publishDate: "2022-09-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: #In *Source Themes Conference*
+publication: in *npj Digital Medicine*
 publication_short: #In *STC*
 
 abstract: Hypoxemia, a medical condition that occurs when the blood is not carrying enough oxygen to adequately supply the tissues, is a leading indicator for dangerous complications of respiratory diseases like asthma, COPD, and COVID-19. While purpose-built pulse oximeters can provide accurate blood-oxygen saturation (SpO2) readings that allow for diagnosis of hypoxemia, enabling this capability in unmodified smartphone cameras via a software update could give more people access to important information about their health. Towards this goal, we performed the first clinical development validation on a smartphone camera-based SpO2 sensing system using a varied fraction of inspired oxygen (FiO2) protocol, creating a clinically relevant validation dataset for solely smartphone-based contact PPG methods on a wider range of SpO2 values (70–100%) than prior studies (85–100%). We built a deep learning model using this data to demonstrate an overall MAE = 5.00% SpO2 while identifying positive cases of low SpO2 < 90% with 81% sensitivity and 79% specificity. We also provide the data in open-source format, so that others may build on this work.
