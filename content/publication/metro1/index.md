@@ -37,16 +37,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: News
+  url: https://www.microsoft.com/en-us/research/collaboration/studies-in-pandemic-preparedness/
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0048969721078694/pdfft?md5=d12cffbd88d349503ffb9acc8c9a724c&pid=1-s2.0-S0048969721078694-main.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
-url_project: ''
+url_project: 'https://jasonhof.github.io/project/internal-project/proj2-metro/'
 # url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,7 +61,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- proj2-metro
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

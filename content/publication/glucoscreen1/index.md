@@ -33,8 +33,8 @@ tags:
 featured: true
 
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: News
+  url: https://news.cs.washington.edu/2023/03/30/uw-researchers-show-how-to-tap-into-the-sensing-capabilities-of-any-smartphone-to-screen-for-prediabetes/
 url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3580855'
 # url_code: 'https://github.com/ubicomplab/oximetry-phone-cam-data'
 # url_dataset: 'https://github.com/ubicomplab/oximetry-phone-cam-data'
