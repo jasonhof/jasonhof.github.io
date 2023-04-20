@@ -15,8 +15,8 @@
 #   Browse user installed themes in `data/themes/`
 #theme = "forest"
 #theme = "dark"
-theme = "1950s"
-#theme = "coffee"
+#theme = "1950s"
+theme = "ocean"
 
 # Enable users to switch between day and night mode?
 day_night = false
