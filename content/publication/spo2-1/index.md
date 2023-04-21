@@ -51,7 +51,7 @@ url_video: 'https://drive.google.com/file/d/12JwyZAvvBfVlHTrwAK5V1ptU3lmguoOQ/vi
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'With these results, we can start to imagine replacing purpose-built medical devices, such as pulse oximeters, with software running on the phone using its more general-purpose sensors. Image credit: [**Dennis Wise/University of Washington**](https://www.washington.edu/news/2022/09/19/smartphone-camera-flash-could-help-people-measure-blood-oxygen-levels-home/)'
   focal_point: ""
   preview_only: false
 

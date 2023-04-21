@@ -51,7 +51,7 @@ url_project: 'https://jasonhof.github.io/project/internal-project/proj2-metro/'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Passive sensor fabric placed in public transit HVAC systems may enable cheaper monitoring of pandemic outbreaks in the future. Image credit: **the study authors**'
   focal_point: ""
   preview_only: false
 

@@ -47,7 +47,7 @@ url_video: 'https://youtu.be/3nJRdWHl6lg'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Screening for prediabetes may become more affordable and widespread if the GlucoScreen technology is developed further. Image credit: [**Raymond C. Smith/University of Washington**](https://news.cs.washington.edu/2023/03/30/uw-researchers-show-how-to-tap-into-the-sensing-capabilities-of-any-smartphone-to-screen-for-prediabetes/)'
   focal_point: ""
   preview_only: false
 
