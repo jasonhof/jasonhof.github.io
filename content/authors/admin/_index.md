@@ -59,7 +59,7 @@ social:
   link: https://www.linkedin.com/in/jasonhoffman4522/
 - icon: cv
   icon_pack: ai
-  #link: https://drive.google.com/file/d/1h1LjkceTH5bTsooOUGPV5ynWKKCCYJeh/view?usp=sharing
+  #link: https://drive.google.com/file/d/1uJxUAz4OxBdZbCEcruhcV-2sInu5fW22/view?usp=sharing
   link: https://docs.google.com/uc?export=download&id=1h1LjkceTH5bTsooOUGPV5ynWKKCCYJeh
   #link: files/cv.pdf
 - icon: envelope
