@@ -60,7 +60,7 @@ social:
 - icon: cv
   icon_pack: ai
   #link: https://drive.google.com/file/d/1uJxUAz4OxBdZbCEcruhcV-2sInu5fW22/view?usp=sharing
-  link: https://docs.google.com/uc?export=download&id=1LoruN0dc4xHGdg2obeEvFAiGeFewol_O
+  link: https://docs.google.com/uc?export=download&id=1G8ukkFmFY-SYLRuchy06Uo9SC-P-IiAn
   #link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
