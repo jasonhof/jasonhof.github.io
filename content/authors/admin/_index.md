@@ -35,7 +35,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Washington
-    year: 2024 (expected)
+    year: 2025 (expected)
   - course: BS in Biomedical Engineering
     institution: University of Southern California
     year: 2014
